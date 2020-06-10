@@ -1,3 +1,3 @@
 # Create Components react
 
-npm run create <Component name>
+npm run create Component-name
